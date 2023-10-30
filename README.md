@@ -1,5 +1,7 @@
 # HR-Attrition-and-Performance-Dashboard
 HR Dashboard||Employee Retention||Attrition Analysis
+
+After uploading the HR data into Power BI, we conducted various data processing tasks, resulting in the following outcomes
 Key Insights:
 
 👥 Total Employees in the Organisation: 1467.
